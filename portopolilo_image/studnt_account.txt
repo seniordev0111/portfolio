@@ -1,0 +1,7 @@
+Built with Nuxt.js | Vue.js | Firebase
+
+I developed this modern accounting career reference system for university students, designed to inspire and guide them in exploring the vast opportunities within accounting.
+
+The platform was built using Nuxt.js and Vue.js for a smooth, responsive, and engaging frontend experience, combined with Firebase for real-time database management, authentication, and scalability.
+
+A project that blends education, technology, and creativity to unlock career possibilities for the next generation of accountants.
